@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @krishkumar12
+- 👀 I am interested in Data science, SQL, Python, Machine learning, Statistics
+- 🌱 I’m currently doing some projects on data science
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... Reach me via email krisrkumar12@gmail.com 
